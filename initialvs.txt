@@ -1,0 +1,6 @@
+
+
+W1 = 0.25 * randn(10,47); W2 = 0.25 * randn(1,10); 
+b1 = 0.25 * randn(10,1); b2 = 0.25 * randn(1,1); alp = 0.1;
+
+W1 = W1out;W2 = W2out; b1 = b1out; b2 = b2out;
