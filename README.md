@@ -21,7 +21,8 @@ i.	Running the program, with initial values:
 ii.	Results:
   1.	Actually trained epochs = 733
   2.	Hit ratio = 387/447
-  
+iii. Learning curve: mean squared error = 0.0045 （below diagram: the error changed by epochs）
+<img src="https://github.com/ayumiryu/Variations-of-Back-Propagation/blob/master/error.png"/>
 
 
 ### License:
