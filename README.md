@@ -9,5 +9,18 @@ help [file Name]
 ```
 2.	For restoring the training more easily, please load "mablab_7.20.mat" first to get all the initial values.
 
+### Case example:
+Best case by experiment with different parameters( running help: tranepoch.m)
+i.	Running the program, with initial values:
+  1.	alpha = 0.02
+  2.	Stopping criterion: Training epochs = 800 or alpha < 0.0045
+  3.	Hidden layer units = 20
+  4.	Initial weights/bias could be checked in the code(file "mablab_7.20.mat"- WW1,WW2,bb1,bb2)
+ii.	Results:
+  1.	Actually trained epochs = 733
+  2.	Hit ratio = 387/447
+  
+
+
 ### License:
 personal project, only for communication and study.
